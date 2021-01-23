@@ -7,27 +7,27 @@ paginate: 5
 plugins: [jekyll-paginate]
 port: 4000
 safe: true
-url: https://jiarenchang.github.io/
+url: https://peichunchang.github.io/
 author: Fábio Madeira
 
 # edit this section with your information
 # myjekyll.github.io - all contents run on /vitae/
 # for a normal use at the base of the server change it to "/"
 baseurl: "/"
-title: JiaRen Chang's website
-name: JiaRen Chang (張家仁)
-email: followwar@gmail.com
-email_full: mailto:followwar@gmail.com
-website: JiaRenChang.github.io/
-website_full: https://jiarenchang.github.io/
-github: JiaRenChang/
+title: PeiChung Chang's website
+name: PeiChung Chang (張珮君)
+email: maplepig.cs05g@nctu.edu.tw
+email_full: mailto:maplepig.cs05g@nctu.edu.tw
+website: PeiChunChang.github.io/
+website_full: https://peichunchang.github.io/
+github: PeiChunChang/
 twitter: twitter
 tel: 
 tel_full: 
 google_maps: 
 address:
   street: 
-  postcode: Post Doc
+  postcode: PhD student
   city: NCTU
   country: Taiwan
 google_analytics: 
