@@ -14,8 +14,8 @@ author: Fábio Madeira
 # myjekyll.github.io - all contents run on /vitae/
 # for a normal use at the base of the server change it to "/"
 baseurl: "/"
-title: PeiChung Chang's website
-name: PeiChung Chang (張珮君)
+title: PeiChun Chang's website
+name: PeiChun Chang (張珮君)
 email: pcchang.cs05@nycu.edu.tw
 email_full: mailto:pcchang.cs05@nycu.edu.tw
 website: PeiChunChang.github.io/
@@ -28,7 +28,7 @@ google_maps:
 address:
   street: 
   postcode: PhD student
-  city: NCTU
+  city: 
   country: Taiwan
 google_analytics: 
 
