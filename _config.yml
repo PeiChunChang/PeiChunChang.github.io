@@ -8,7 +8,7 @@ plugins: [jekyll-paginate]
 port: 4000
 safe: true
 url: https://peichunchang.github.io/
-author: Fábio Madeira
+author: Pei-Chun Chang (張珮君)
 
 # edit this section with your information
 # myjekyll.github.io - all contents run on /vitae/
