@@ -7,7 +7,7 @@ paginate: 5
 plugins: [jekyll-paginate]
 port: 4000
 safe: true
-url: https://peichunchang.github.io/
+url: https://github.com/PeiChunChang/PeiChunChang.github.io/blob/main/_includes/PCChang_CV.pdf
 author: Pei-Chun Chang (張珮君)
 
 # edit this section with your information
