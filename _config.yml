@@ -15,22 +15,13 @@ author: Pei-Chun Chang (張珮君)
 # for a normal use at the base of the server change it to "/"
 baseurl: "/"
 title: Pei-Chun Chang's website
-name: Pei-Chun Chang (張珮君)
-email: pcchang.cs05@nycu.edu.tw
-email_full: mailto:pcchang.cs05@nycu.edu.tw
+name: Pei-Chun Chang <br>張珮君
+email: pei.pcchang@gmail.com
+email_full: pei.pcchang@gmail.com
 website: Link to CV
 website_full: ./PCChang_CV.pdf
 github: PeiChunChang/
-twitter: twitter
-tel: 
-tel_full: 
-google_maps: 
-address:
-  street: 
-  postcode: PhD student
-  city: 
-  country: Taiwan
-google_analytics: 
 
 # needed for travis-ci build
 exclude: [vendor]
+
